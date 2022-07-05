@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.golpp.gglovefasturl.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.golpp.gglovefasturl.MyBundle
 
 class MyApplicationService {
 
